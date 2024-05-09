@@ -1,3 +1,7 @@
+# Dependancies
+[Serial Driver for Foxy](https://github.com/ros-drivers/transport_drivers/tree/foxy/serial_driver)
+[UDP Messages dependancy for Serial Driver](https://github.com/flynneva/udp_msgs/tree/main/)
+
 # Building 
 Run the following to build the package `gps_package ` as defined in the CMake.txt file
 ```bash
